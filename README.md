@@ -1,0 +1,1 @@
+# Generate Lyndon words in lexicographic order

@@ -2,5 +2,9 @@
 name = "lyndon"
 version = "0.1.0"
 edition = "2021"
+description = "Generate Lyndon words in lexicographic order"
+repository = "https://github.com/Ben-Lichtman/lyndon"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
+
